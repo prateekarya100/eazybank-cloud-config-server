@@ -1,0 +1,12 @@
+
+build:
+    version: "3.0"
+
+cards:
+    message: "thank you to contacting cards microservices development and production team"
+    contactDetails:
+        name: "Prateek Arya - Developer"
+        email: "prateekarya100@gmail.com"
+    onCallSupport:
+        - 9650841442
+        - 8864851679

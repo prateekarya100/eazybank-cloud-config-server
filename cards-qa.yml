@@ -1,0 +1,12 @@
+
+build:
+    version: "6.1"
+
+cards:
+    message: "thank you for contacting cards microservices api quality testing team"
+    contactDetails:
+        name: "Shubham Dubey - Software Tester"
+        email: "shubham.dubey100@gmail.com"
+    onCallSupport:
+        - 8864991526
+        - 9123456781

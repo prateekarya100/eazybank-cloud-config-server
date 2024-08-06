@@ -1,0 +1,12 @@
+
+build:
+    version: "5.0"
+
+loans:
+    message: "thank you for contacting to loans microservices software testing and quality analysis team"
+    contact:
+        name:  "Vani Arya - Software Tester"
+        email: "vani.garg100@gmail.com"
+    onCallSupport:
+    - 9919944399
+    - 9221123433

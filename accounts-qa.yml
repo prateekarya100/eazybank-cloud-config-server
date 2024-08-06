@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "contact us to eazybank accounts related local quality analysis API"
+  contactDetails:
+    name: "Vani Arya - Quality Tester"
+    email: "vaniarya@gmail.com"
+  onCallSupport:
+      - (555) 551-1134
+      - (555) 521-1134

@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "contact us to eazybank accounts related local production API"
+  contactDetails:
+    name: "Ravina Arya - Production Engineer"
+    email: "ravina@gmail.com"
+  onCallSupport:
+      - (555) 551-1134
+      - (555) 521-1134
