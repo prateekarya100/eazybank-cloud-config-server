@@ -6,7 +6,7 @@ accounts:
   message: "thank you for contact us to eazybank accounts updated production API"
   contactDetails:
     name: "Ravina Arya - Production Engineer"
-    email: "ravina@gmail.com"
+    email: "{cipher}65a3c76885a2930a5a8dfea963c8019c983fed83ed714be9264b1ca8911cf723861ea32a6453637ffcaa59e3c8dfdd06"
   onCallSupport:
       - (555) 551-1134
       - (555) 521-1134
