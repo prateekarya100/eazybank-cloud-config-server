@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "contact us to eazybank accounts updated production API"
+  message: "thank you for contact us to eazybank accounts updated production API"
   contactDetails:
     name: "Ravina Arya - Production Engineer"
     email: "ravina@gmail.com"
