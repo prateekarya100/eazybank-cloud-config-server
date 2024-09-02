@@ -3,7 +3,7 @@ build:
     version: "4.0"
 
 loans:
-    message: "thank you for contacting to loans microservices development and production team"
+    message: "thank you for contacting to loans microservices development and prod team"
     contact:
         name:  "Prateek Arya - Developer"
         email: "prateekarya100@gmail.com"
